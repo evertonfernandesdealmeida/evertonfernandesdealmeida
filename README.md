@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**evertonfernandesdealmeida/evertonfernandesdealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação iniciando minha jornada no desenvolvimento web.
 
-Here are some ideas to get you started:
+### 🚀 O que estou aprendendo:
+- HTML5
+- CSS3
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente focado em criar projetos simples para praticar e evoluir minhas habilidades.
+
+### 🎯 Objetivos
+- Dominar o Front-end
+- Construir projetos reais
+- Aprender novas tecnologias
+
+Sempre aberto a aprender e trocar experiências!
+
+---
+
+📫 **Vamos nos conectar?**
+
+- [LinkedIn](https://linkedin.com/in/seuusuario) 
+- [Instagram](https://instagram.com/seuusuario)
+- Email: seuemail@email.com
