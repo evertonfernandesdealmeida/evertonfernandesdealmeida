@@ -20,6 +20,6 @@ Sempre aberto a aprender e trocar experiências!
 
 📫 **Vamos nos conectar?**
 
-- [LinkedIn](https://linkedin.com/in/seuusuario) 
-- [Instagram](https://instagram.com/seuusuario)
-- Email: seuemail@email.com
+- [LinkedIn](https://www.linkedin.com/in/evertonfernandesdealmeida/) 
+- [Instagram](https://www.instagram.com/venha_seconhecer/)
+- Email: evertonfernandesbussiness@gmail.com
