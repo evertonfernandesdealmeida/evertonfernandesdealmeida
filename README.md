@@ -1,4 +1,4 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou [Everton Fernandes]! 👋
 
 Estudante de programação iniciando minha jornada no desenvolvimento web.
 
